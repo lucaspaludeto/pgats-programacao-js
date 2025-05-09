@@ -50,3 +50,4 @@
   }
 
   console.log(planoDeAtividade('paquita', 'médio', 31))
+
