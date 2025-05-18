@@ -9,3 +9,13 @@
 
  Extra: transforme a lógica em uma função   
  */
+
+ function darPetiscos(quantidade) {
+    for (let i = 1; i <= quantidade; i++) {
+        console.log(`Petiscos ${i} entregue`)
+    }
+
+    console.log("O dog está satisfeito")
+ }
+
+ darPetiscos(5)
